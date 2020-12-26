@@ -1,0 +1,103 @@
+body{
+	background-color:#E9EBEE;
+}
+#maindiv{
+	width:100%;
+	background-color:#E9EBEE;
+}
+.header{
+	height:150px;
+	width:100%;
+	background-color:#000080;
+	color:white;
+}
+.facebook{
+	float:left;
+	text-align:center;
+	padding:10px;
+	margin-left:100px;
+}
+.loginarea{
+	margin-left:786px;
+	padding-top:20px;
+}
+.userName{
+	float:left;
+	padding:8px
+	
+}
+.pass{
+	float:left;
+	padding:7px;
+	
+}
+.loginpage{
+	padding:25px;
+}
+.maincontent{
+	width:40%;
+	height:600px;
+	float:right;
+}
+.fname{
+	padding:9px 4px 7px 4px;
+	font-size:16px;
+	border-radius:5px;
+	margin-right:15px;
+}
+.sname{
+	padding:9px 4px 7px 4px;
+	font-size:16px;
+	border-radius:5px;
+}
+.email{
+	padding:9px 4px 7px 4px;
+	font-size:16px;
+	border-radius:5px;
+	margin-top:10px;
+	width:434px;
+}
+.npass{
+	padding:9px 4px 7px 4px;
+	font-size:16px;
+	border-radius:5px;
+	margin-top:10px;
+	width:434px;
+}
+.birthdate{
+	
+	padding:1px;
+}
+.day{
+	padding:3px;
+	
+}
+.month{
+	padding:3px;
+}
+.year{
+	padding:3px;
+}
+.account{
+	padding:10px;
+	font-size:16px;
+	border-radius:5px;
+	margin-top:10px;
+	background-color:#609D4D;
+}
+.leftsidebar{
+	height:510px;
+	width:60%;
+	padding:90px;
+	text-align:center;
+}
+.image{
+	
+	
+	padding: 100px;
+    height: 0px;
+    width: 260px;
+    margin-left: 100px;
+    background-image: url(image/pic.png);
+	
+}
